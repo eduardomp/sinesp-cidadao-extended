@@ -1,0 +1,22 @@
+{
+  "name": "sinesp-cidadao",
+  "version": "1.0.0",
+  "description": "simple POC to read plates and get results from sinesp-cidadao",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "phantonjs",
+    "horseman",
+    "imagerecognition",
+    "ocr",
+    "platerecognition"
+  ],
+  "author": "Eduardo Medeiros Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "node-horseman": "^3.3.0"
+  }
+}
